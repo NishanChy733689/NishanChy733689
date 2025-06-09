@@ -53,7 +53,7 @@ Check out my creations:
 - 📬 Email: [nishan.dev.contact@gmail.com](mailto:nishan.dev.contact@gmail.com)
 - 📊 GitHub Stats:
 
-![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishan-junior&show_icons=true&theme=tokyonight)
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanchy733689&show_icons=true&theme=tokyonight)
 
 ---
 
