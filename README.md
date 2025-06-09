@@ -1,47 +1,60 @@
 # 👋 Hey there, I'm Nishan!
 
-🎯 12 y/o Pythonista | 🚀 Future Java Game Dev | 🤖 AI Enthusiast | 💡 Creative Coder
+🎯 12 y/o Pythonista | 💻 Frontend Dev | 🚀 Future Java Game Dev | 🤖 AI Tinkerer | 😄 Just a kid who codes like crazy
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Building cool stuff with Python, Java, and machine learning.
-- 🧠 Focused on AI, automation, and web-based tools.
-- 💬 Learning Java with only AI guidance — no YouTube, no docs!
-- 🌱 Always experimenting with new tech and making my ideas real.
+- 🔭 I build clean, smart, and fun projects using **Python**, **Java**, and **web tech**.
+- 🎨 Frontend is my playground — I design and code interfaces that *feel alive*.
+- 💬 I’m self-taught and AI-taught — no YouTube, no tutorials, just experiments and results.
+- 🧠 Strong foundation in logic, design, and making things that *actually work*.
 
 ---
 
-### 🧰 Tech Stack
+### 💼 Tech Arsenal
 
 - **Languages**: `Python` • `Java` • `HTML` • `CSS` • `JavaScript`
-- **Libraries & Tools**: `OpenCV` • `NeuralIntents` • `Firebase` • `SQLite` • `Tkinter`
-- **Platforms**: `Google Colab` • `VS Code` • `IntelliJ IDEA`
+- **Frontend**: `Responsive Design` • `Animations` • `UI/UX` • `DOM Mastery`
+- **Tools & Libraries**: `OpenCV` • `NeuralIntents` • `Firebase` • `SQLite` • `Tkinter`
+- **Platforms**: `VS Code` • `Google Colab` • `IntelliJ IDEA`
 
 ---
 
-### 🚧 Projects in Progress
+### 🧪 Projects I'm Cooking
 
-- 🤖 AI-powered To-Do App
+- 🤖 Smart To-Do App (with AI Intent Detection)
+- 🖼️ Image Uploader & Finder Web App
 - 📸 Face Recognition Login System
-- 🌐 Photo Uploader & Finder Website
-- 🔐 Creative Licensing System for Custom Projects
-- 🎮 Minecraft Modding with Java
+- 🛡️ Custom License Trap System (for those who don’t read 😏)
+- 🎮 Minecraft Modding and Game Tools with Java
 
 ---
 
-### 🌐 Portfolio
+### 🌍 Portfolio
 
-Check out my work: [nishan733689.github.io](https://nishan733689.github.io)
+Check out my creations:  
+**🌐 [nishan733689.github.io](https://nishan733689.github.io)**
+
+---
+
+### 😄 Fun Bits
+
+- 🧠 I once forgot a game’s name for 4 years and still found it again. (Hi Trailmakers 👋)
+- 🎮 I mod, code, break, and fix — all before homework time.
+- 🥽 I challenge myself to learn like a robot — pure logic, no fluff.
+- ⚡ Favourite motto: *"Why wait till you're older to build awesome stuff?"*
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect
 
-- 💌 Email: [nishan.dev.contact@gmail.com](mailto:nishan.dev.contact@gmail.com)
-- 🧠 Motto: *"Why wait till you're older to build awesome stuff?"*
-
----
+- 📬 Email: [nishan.dev.contact@gmail.com](mailto:nishan.dev.contact@gmail.com)
+- 📊 GitHub Stats:
 
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishan-junior&show_icons=true&theme=tokyonight)
+
+---
+
+> *"The future belongs to the curious — and I’m already there."*
