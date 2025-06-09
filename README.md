@@ -1,49 +1,45 @@
 # 👋 Hey there, I'm Nishan!
 
-🎯 12 y/o Pythonista | 🚀 Future Java Game Dev | 🤖 AI Enthusiast | 🔧 Arduino Hacker
+🎯 12 y/o Pythonista | 🚀 Future Java Game Dev | 🤖 AI Enthusiast | 💡 Creative Coder
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Currently building **AI tools**, **Arduino-powered gaming hardware**, and **face recognition systems**.
-- 💬 I speak Python like a native and learning Java like a champ.
-- 🧪 I love turning crazy ideas into working prototypes — from smart gadgets to full-blown software.
-- 🎮 Minecraft modder, automation nerd, and the kid who reads licenses (*carefully* 😏).
+- 🔭 Building cool stuff with Python, Java, and machine learning.
+- 🧠 Focused on AI, automation, and web-based tools.
+- 💬 Learning Java with only AI guidance — no YouTube, no docs!
+- 🌱 Always experimenting with new tech and making my ideas real.
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages**: `Python` • `Java` • `C++` (Arduino)
-- **Tools**: `OpenCV` • `Firebase` • `SQLite` • `Tkinter` • `NeuralIntents`
-- **Hardware**: `Arduino Uno` • `DFPlayer Mini` • `Bluetooth Modules` • `Sensors Galore`
-- **Dev Tools**: `IntelliJ` • `VS Code` • `Google Colab`
+- **Languages**: `Python` • `Java` • `HTML` • `CSS` • `JavaScript`
+- **Libraries & Tools**: `OpenCV` • `NeuralIntents` • `Firebase` • `SQLite` • `Tkinter`
+- **Platforms**: `Google Colab` • `VS Code` • `IntelliJ IDEA`
 
 ---
 
-### 📌 Projects in the Works
+### 🚧 Projects in Progress
 
-- 🎮 **Custom Steering Wheel Controller** for PC racing games
-- 🔊 **Voice-activated Smart Assistant** with Arduino + Python
-- 📸 **Face Recognition Login System**
-- ☁️ **Realtime Firebase-based To-Do AI App**
-- 🌐 **Photo Uploader & Finder Website**
+- 🤖 AI-powered To-Do App
+- 📸 Face Recognition Login System
+- 🌐 Photo Uploader & Finder Website
+- 🔐 Creative Licensing System for Custom Projects
+- 🎮 Minecraft Modding with Java
 
 ---
 
-### 🧩 Fun Facts
+### 🌐 Portfolio
 
-- 🧠 I challenge myself to learn *only from AI* (no YouTube, no docs!)
-- 🧙 I remember game names I forgot 4 years ago 😄
-- 🏫 Proud student at **St. Placid School and College**
+Check out my work: [nishan733689.github.io](https://nishan733689.github.io)
 
 ---
 
 ### 📫 Let's Connect
 
 - 💌 Email: [nishan.dev.contact@gmail.com](mailto:nishan.dev.contact@gmail.com)
-- 🌐 Portfolio: *coming soon…*
 - 🧠 Motto: *"Why wait till you're older to build awesome stuff?"*
 
 ---
